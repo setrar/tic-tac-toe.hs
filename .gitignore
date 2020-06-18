@@ -2,3 +2,5 @@
 *.hi
 tic
 Position_spec
+dist-newstyle
+.ghc.environment*
