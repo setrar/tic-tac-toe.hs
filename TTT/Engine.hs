@@ -1,3 +1,5 @@
+{-# LANGUAGE FlexibleContexts #-}
+
 module TTT.Engine (
   minimax
  ,bestMove
